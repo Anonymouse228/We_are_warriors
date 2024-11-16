@@ -1,0 +1,66 @@
+{
+  "upgrade_menu_button": [
+    844,
+    1001
+  ],
+  "upgrade_buttons_locations": {
+    "food_production": [
+      1122,
+      552
+    ],
+    "base_health": [
+      1123,
+      639
+    ]
+  },
+  "battle_menu_button": [
+    958,
+    996
+  ],
+  "start_battle_button": [
+    960,
+    769
+  ],
+  "battle_units": {
+    "1": {
+      "click_point": [
+        925,
+        913
+      ],
+      "active_indicator_region": [
+        871,
+        847,
+        100,
+        140
+      ]
+    },
+    "2": {
+      "click_point": [
+        1040,
+        908
+      ],
+      "active_indicator_region": [
+        991,
+        847,
+        100,
+        140
+      ]
+    },
+    "3": {
+      "click_point": [
+        1155,
+        911
+      ],
+      "active_indicator_region": [
+        1108,
+        847,
+        100,
+        140
+      ]
+    }
+  },
+  "exit_paid_battle_button": [
+    962,
+    771
+  ]
+}
